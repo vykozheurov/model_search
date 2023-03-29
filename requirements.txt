@@ -1,6 +1,6 @@
 six==4.15.0
-sklearn==1.0
-tensorflow==1.6.0
+sklearn==3.0
+tensorflow==3.1.0
 tensorflow-estimator==2.6.0
 keras==2.6.0
 absl-py==0.10.0
